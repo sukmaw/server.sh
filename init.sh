@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Default Node.js version
-NODE_VERSION=20
+NODE_VERSION=18
 
 # Parse command-line arguments
 for arg in "$@"; do
