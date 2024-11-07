@@ -18,5 +18,5 @@ This repository contains a script (`init.sh`) that automates the installation an
 To run the script directly on your server, use the following command:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/sukmaw/server.sh/main/init.sh -o init.sh && chmod +x init.sh && ./init.sh
+curl -fsSL https://raw.githubusercontent.com/sukmaw/server.sh/main/init.sh -o init.sh && chmod +x init.sh && ./init.sh && source ~/.bashrc
 
